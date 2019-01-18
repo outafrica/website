@@ -1,5 +1,4 @@
 # My Website
 
 This is a relly awesome website
-Just another readme update
-Updated locally
+Updates made on master before rebase
