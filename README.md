@@ -10,3 +10,7 @@ This is just a README file
 
 This is doen to show how to
 use git and github together
+
+## Getting Started
+
+To get started with this project just `clone` this repository.
