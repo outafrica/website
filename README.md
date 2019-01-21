@@ -7,3 +7,6 @@ Updates made on master before rebase
 
 This is a local edit.
 This is just a README file
+
+This is doen to show how to
+use git and github together
